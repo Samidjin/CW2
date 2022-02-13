@@ -8,14 +8,14 @@
 
 @font-face {
   font-family: open-sans-r;
-  src: url(/fonts/OpenSans-Regular.woff);
+  src: url(../fonts/OpenSans-Regular.woff);
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: open-sans-b;
-  src: url(/fonts/OpenSans-Bold.woff);
+  src: url(../fonts/OpenSans-Bold.woff);
   font-weight: 400;
   font-style: bold;
 }
@@ -31,7 +31,7 @@
 /* header group */
 
 .header {
-  background-image: url("/images/img/banner-bg.jpg");
+  background-image: url("../images/img/banner-bg.jpg");
   background-repeat: no-repeat;
   background-position: center 0;
   background-size: cover;
@@ -124,19 +124,19 @@
 }
 
 .trend_1 {
-  background-image: url("/images/img/trend1.jpg");
+  background-image: url("../images/img/trend1.jpg");
 }
 
 .trend_2 {
-  background-image: url("/images/img/trend2.jpg");
+  background-image: url("../images/img/trend2.jpg");
 }
 
 .trend_3 {
-  background-image: url("/images/img/trend3.jpg");
+  background-image: url("../images/img/trend3.jpg");
 }
 
 .trend_4 {
-  background-image: url("/images/img/trend4.jpg");
+  background-image: url("../images/img/trend4.jpg");
 }
 
 .trend {
@@ -382,7 +382,7 @@
 .search-button {
   border: none;
   width: 47px;
-  background-image: url(/images/svg/search.svg);
+  background-image: url(../images/svg/search.svg);
   background-repeat: no-repeat;
   background-size: 16px;
   background-position: center;
@@ -513,23 +513,23 @@
 }
 
 .social-icon_twitter {
-  background-image: url(/images/svg/004-twitter.svg);
+  background-image: url(../images/svg/004-twitter.svg);
 }
 
 .social-icon_pinterest {
-  background-image: url(/images/svg/001-pinterest.svg);
+  background-image: url(../images/svg/001-pinterest.svg);
 }
 
 .social-icon_facebook {
-  background-image: url(/images/svg/002-facebook-logo.svg);
+  background-image: url(../images/svg/002-facebook-logo.svg);
 }
 
 .social-icon_instagram {
-  background-image: url(/images/svg/005-instagram.svg);
+  background-image: url(../images/svg/005-instagram.svg);
 }
 
 .social-icon_tumblr {
-  background-image: url(/images/svg/003-tumblr.svg);
+  background-image: url(../images/svg/003-tumblr.svg);
 }
 
 .copyright {
